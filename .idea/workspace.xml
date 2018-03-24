@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33310694-de13-4c8a-b90f-aa58e6641f44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JDWeb_war_exploded/css/index.css" afterPath="$PROJECT_DIR$/out/artifacts/JDWeb_war_exploded/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/JDWeb_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/JDWeb_war_exploded/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/index.css" afterPath="$PROJECT_DIR$/web/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/js/index.js" afterPath="$PROJECT_DIR$/web/js/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="213" />
-    <option name="y" value="176" />
+    <option name="x" value="632" />
+    <option name="y" value="154" />
     <option name="width" value="1436" />
     <option name="height" value="877" />
   </component>
@@ -407,15 +398,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521513380553</updated>
-      <workItem from="1521513384975" duration="51704000" />
+      <workItem from="1521513384975" duration="52022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51704000" />
+    <option name="totallyTimeSpent" value="52022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="213" y="176" width="1436" height="877" extended-state="0" />
+    <frame x="632" y="154" width="1436" height="877" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
