@@ -71,7 +71,37 @@
                   </div>
               </li>
               <li class="rltv ip4">
-                  <input type="submit" name="sb" style="" value="立即注册" class="rltv2">
+                  <input id="Tel" class="txt" placeholder="建议使用常用手机" type="number" name="tel"><span class="dwl ztl2">中国0086</span>
+                  <a class="email" href="#">邮箱验证</a>
+
+                  <div id="tip9">
+                      <span class="s_3 f1"></span>
+                      <span class="s_4 f1">完成验证后，你可以用该手机登录和找回密码</span>
+                  </div>
+                  <div id="tip10">
+                      <span class="s_5 f1"></span>
+                      <span class="s_6 f1">格式有误</span>
+
+                  </div>
+              </li>
+              <li class="rltv ip5">
+                  <input id="num" class="txt" placeholder="请输入手机验证码" type="number" name="num"><span class="dwl ztl2">手机验证码</span>
+                  <input class="numsub" type="button" value="获取验证码" >
+                  <div id="tip11">
+                      <span class="s_3 f1"></span>
+                      <span class="s_4 f1">完成验证后，你可以用该手机登录和找回密码</span>
+                  </div>
+                  <div id="tip12">
+                      <span class="s_5 f1"></span>
+                      <span class="s_6 f1">格式有误</span>
+
+                  </div>
+
+              </li>
+
+              <div class="clear"></div>
+              <li class="rltv ip6">
+                  <input type="submit" name="sb" style="color: #ffffff" value="立即注册" class="rltv2">
               </li>
               <div class="clear"></div>
           </ul>
@@ -86,7 +116,7 @@
           </div>
           <div class="middle_right_bottom">
 
-              <a class="middle_right_bottom_txt fr">Internetional <br>customer</a>
+              <a class="middle_right_bottom_txt fr">Internetional <br>&nbsp;&nbsp;customer</a>
               <div class="middle_right_bottom_icon fr"></div>
           </div>
       </div>
